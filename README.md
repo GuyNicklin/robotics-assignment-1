@@ -48,3 +48,13 @@ This is demonstrated in the previous clip (see above).
 ## The Video demonstration can be found on youtube, as it is to large for the repo:
 
 [Robotics Assignment 1 video demonstration](https://youtu.be/qOKvc4E8V1M)
+
+## References
+
+Wikipedia contributors. (n.d.). *Depth-first search*. Wikipedia, The Free Encyclopedia. Retrieved February 19, 2025, from [https://en.wikipedia.org/wiki/Depth-first_search](https://en.wikipedia.org/wiki/Depth-first_search)  
+
+Cuemath. (n.d.). *Euclidean distance formula*. Retrieved February 19, 2025, from [https://www.cuemath.com/euclidean-distance-formula/](https://www.cuemath.com/euclidean-distance-formula/)
+
+
+
+
