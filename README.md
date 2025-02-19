@@ -26,7 +26,7 @@ Demo of mapping output:
 
 map output (visual):
 
-<img src="key_and_map.png" width="500">
+<img src="Key_and_map.png" width="500">
 
 map output (data):
 
