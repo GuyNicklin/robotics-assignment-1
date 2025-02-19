@@ -45,6 +45,6 @@ This is demonstrated in the previous clip (see above).
 
 <img src="returning_home.gif" width="600">
 
-## Video demonstration can be found on youtube as video is to large for the repo:
+## The Video demonstration can be found on youtube, as it is to large for the repo:
 
 [Robotics Assignment 1 video demonstration](https://youtu.be/qOKvc4E8V1M)
