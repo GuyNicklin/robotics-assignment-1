@@ -20,15 +20,15 @@ This is demonstrated in the previous clip (see above).
 
 ### Map the maze
 
-*** Demo of mapping output:
+**Demo of mapping output:**
 
 <img src="mapping_maze.gif" width="600">
 
-*** map output (visual):
+**map output (visual):**
 
 <img src="Key_and_map.png" width="600">
 
-*** map output (data):
+**map output (data):**
 
 ```python
 [((-870, 850), {'visited': True, 'walls': ['N', 'W', 'E'], 'key_tile': '□ '}), ((-620, 850), {'visited': True, 'walls': ['N', 'W'], 'key_tile': '□ '}), ((-370, 850), {'visited': True, 'walls': ['E', 'N', 'S'], 'key_tile': '□ '}), ((-120, 850), {'visited': True, 'walls': ['W', 'S'], 'key_tile': '✩ '}), ((130, 850), {'visited': True, 'walls': ['N', 'E'], 'key_tile': '← '}), ((380, 850), {'visited': True, 'walls': ['N', 'W'], 'key_tile': '□ '}), ((630, 850), {'visited': True, 'walls': ['N', 'S'], 'key_tile': '□ '}), ((880, 850), {'visited': True, 'walls': ['E', 'N'], 'key_tile': '□ '})]
