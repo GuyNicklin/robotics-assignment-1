@@ -1,5 +1,7 @@
 # robotics-assignment-1
 
+Codebase for the application can be found in main.py in this repo.
+
 ##  Basic Requirements
 
 ### Move along the corridors without straying past the walls.
@@ -14,11 +16,22 @@
 
 ### Find the quickest way out of the maze
 
-This is demonstrated in the previous clip.
+This is demonstrated in the previous clip (see above).
 
 ### Map the maze
 
+Demo of mapping output:
+
 <img src="mapping_maze.gif" width="500">
+
+map output (visual):
+
+<img src="key_and_map.png" width="500">
+
+map output (data):
+
+<img src="data.png" width="500">
+
 
 ### Return back home
 
