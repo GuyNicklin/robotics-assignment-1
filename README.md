@@ -22,7 +22,7 @@ This is demonstrated in the previous clip.
 
 ### Return back home
 
-<img src="returning_home.gif" width="400">
+<img src="returning_home.gif" width="500">
 
 ## Video demonstration link
 
