@@ -26,4 +26,4 @@ This is demonstrated in the previous clip.
 
 ## Video demonstration can be found on youtube as video is to large for the repo:
 
-[Link Text](https://youtu.be/qOKvc4E8V1M)
+[Robotics Assignment 1 video demonstration](https://youtu.be/qOKvc4E8V1M)
