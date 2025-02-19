@@ -6,11 +6,11 @@ Codebase for the application can be found in main.py in this repo.
 
 ### Move along the corridors without straying past the walls.
 
-<img src="basic_req_1.gif" width="500">
+<img src="basic_req_1.gif" width="600">
 
 ### Find its way out of the maze and use the quickest route
 
-<img src="basic_req_2_and_3.gif" width="500">
+<img src="basic_req_2_and_3.gif" width="600">
 
 ## Advanced Requirements
 
@@ -22,11 +22,11 @@ This is demonstrated in the previous clip (see above).
 
 *** Demo of mapping output:
 
-<img src="mapping_maze.gif" width="500">
+<img src="mapping_maze.gif" width="600">
 
 *** map output (visual):
 
-<img src="Key_and_map.png" width="500">
+<img src="Key_and_map.png" width="600">
 
 *** map output (data):
 
@@ -43,7 +43,7 @@ This is demonstrated in the previous clip (see above).
 
 ### Return back home
 
-<img src="returning_home.gif" width="500">
+<img src="returning_home.gif" width="600">
 
 ## Video demonstration can be found on youtube as video is to large for the repo:
 
